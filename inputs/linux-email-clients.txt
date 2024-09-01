@@ -1,0 +1,250 @@
+Trending
+
+Tech
+
+Innovation
+
+Business
+
+Security
+
+Advice
+
+Buying Guides
+tomorrow
+belongs to those who embrace it
+today
+
+
+Most Popular
+
+
+Tech
+Home  Tech  Services & Software  Operating Systems  Linux
+Finally! This is the Linux email client I've been hoping for
+Once upon a time, this open source groupware suite was a buggy, bloated mess. I'm so glad I gave Evolution another chance. You should, too.
+jack-wallen
+Written by Jack Wallen, Contributing Writer
+Jan. 25, 2024 at 6:03 p.m. PT
+rank
+trend
+1
+
+Autonomous work predicted to dominate next decade
+
+2
+
+How AI voice generators are impacting everything
+
+3
+
+Google’s new Gemini models achieve ‘near-perfect recall’
+
+4
+
+Claude’s Artifacts feature improves gen AI’s usability
+
+view trend report
+The main Evolution window.
+Evolution has all the tools you need in a groupware suite.
+Jack Wallen/ZDNET
+ZDNET's key takeaways
+Evolution is available to install (for free) from any Linux app store or the command line.
+It has all the tools needed to manage emails, calendars, tasks, contacts, and memos. The UI has a modern feel and setup is user-friendly. Supports IMAP, POP, Gmail, Exchange, and more.
+It can sometimes (randomly) forget your account SMTP passwords.
+Linux has come a long way since I first started using it in 1997. When I think about it, there's not a single aspect of the operating system that hasn't dramatically improved. From stability, security, interoperability, amount of available software, GUIs -- it's all been a steady climb upward.
+
+There has been, however, one issue lingering around since the days that Thunderbird development started to stagnate: The lack of quality email clients.
+
+Also: The best email hosting services to protect your data
+
+I realize that's a strange problem to have in these days of cloud-based services. But I tend to prefer my email to be housed in its own application. Besides, I have numerous email accounts I have to check and I don't want to add even more tabs to my web browser. To that end, I've always preferred to keep the management of emails in a traditional desktop client.
+
+In my search for a high-quality Linux email client, I wrote about how I'd switched to the Blue Mail email client but -- since that writing --  I discovered that Blue Mail had become very slow. Selecting and deleting emails was a chore that took considerably longer than it should. On top of that, Blue Mail would randomly crash on me.
+
+Newsletters
+ZDNET Tech Today
+ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked about stories, five days a week.
+Subscribe
+See all
+Mulling over the other email client options, I found each one to have some issues:
+
+Thunderbird - out-of-date UI.
+Claws Mail - out-of-date UI, finicky, and not exactly the most user-friendly option.
+Geary - too limited.
+Balsa - is it still in development?
+Slypheed - see all of the above.
+Kmail - Native to KDE (which is not my desktop of choice).
+Betterbird - a better Thunderbird but it still leans on an out-of-date UI.
+There are also text-only email clients but I'm not going back to those old days of email. 
+
+Also: Zorin OS is exactly what a desktop operating system should be
+
+That leaves one option among the more popular email clients, one that I haven't considered for some time. That option is Evolution.
+
+
+Evolution is to Linux, what Outlook used to be to Windows. It's called a groupware suite because it groups all the tools you need into one. It has:
+
+Email
+Calendar
+Contacts
+Tasks
+Memos
+I've never been a big fan of groupware suites but that's not the thing that has prevented me from considering Evolution for years. To me, Evolution was the epitome of buggy, bloated software, something Linux wasn't exactly known for. Because of that, I hadn't given it a fair shake. But when Blue Mail decided to show its true nature to me, I realized I might as well give Evolution another go. It had been years and I was hoping things had changed.
+
+Also: Thinking about switching to Linux? 9 things you need to know
+
+To my great relief, they had. Instead of being a bloated, crash-prone application, Evolution has become a responsive, stable tool sporting a much more modern UI. Even better, Evolution can now better handle my massive Gmail account without crumbling under the weight of so many emails. 
+
+I've even found myself dipping into the other Evolution tools -- something I never thought I'd do. I can check my Google Calendar without having to turn back to my browser.
+
+
+The Evolution Calendar app.
+The Evolution Calendar tool is quite good and even gives read/write access to Google Calendar.
+Screenshot by Jack Wallen/ZDNET
+The only problem I've run into involves Tasks from my Google Calendar. Apparently, I'd once created several tasks -- and they all appeared in the Evolution Calendar app under Tasks. Deleting them has been difficult, as Evolution is not capable of removing any task found within a folder. (I can't be certain, but I believe those tasks came from Google Keep -- which I use every day.) I was finally able to get rid of them but I had to do it in groups of 25.  Now, with that task list empty, I felt as though everything was fresh and ready to go.
+
+Also: This Linux distribution is an audio content creator's paradise
+
+So far, I've been using Evolution for about two weeks and the Tasks issue is the only problem I've come across. Everything else has been exactly what I'd hoped for. 
+
+For those interested in installing Evolution, it's quite simple. You can open your desktop app store, search for Evolution, and click Install to add it. 
+
+Evolution listed in the Ultramarine Linux app store.
+Installing Evolution is just a click away.
+Jack Wallen/ZDNET
+Once installed, open it from your desktop menu, and you'll be greeted by the account setup wizard, where you plug in your details and let the app do the work.
+
+Also: How to get to Inbox Zero in no time at all - and stay there
+
+
+It's been a relief to finally land on an email client that checks all the boxes for me; the fact that it's open-source makes it all the better.
+
+If you've not given Evolution a try (or gave up on it as I did years ago), I recommend you give it another go. It's not the same bloated, buggy groupware it once was.
+
+Linux
+Editorial standards
+Show Comments
+Click to unmute
+
+Pause
+
+Unmute
+ 
+
+Captions
+Fullscreen
+Related
+blue envelopes on a yellow background
+The 4 best closed-source email clients for Linux
+The Stat Counter market share for July 2024.
+Linux market share hit its highest point ever last month
+Person with email open
+The best email hosting services of 2024: Expert tested
+
+Tech
+Home  Tech  Services & Software  Operating Systems  Linux
+The 4 best closed-source email clients for Linux
+If Linux is your OS, these closed-source email apps offer great features and user-friendly interfaces.
+jack-wallen
+Written by Jack Wallen, Contributing Writer
+Aug. 14, 2024 at 2:14 a.m. PT
+rank
+trend
+1
+
+Autonomous work predicted to dominate next decade
+
+2
+
+How AI voice generators are impacting everything
+
+3
+
+Google’s new Gemini models achieve ‘near-perfect recall’
+
+4
+
+Claude’s Artifacts feature improves gen AI’s usability
+
+view trend report
+blue envelopes on a yellow background
+Studia818/Getty Images
+On Linux, you'll find a cornucopia of email clients, most of which are open-source and can be found in the standard repositories. The open-source clients are typically all you need to get the job done. 
+
+Also: 5 best open-source email clients for Linux (and why Geary is my go-to)
+
+However, that selection doesn't mean your options are limited. A handful of proprietary (non-open-source) clients are available, each offering different features and a unique take on the user interface (UI).
+
+Here are the four primary closed-source email clients available for Linux.
+
+1. BlueMail
+BlueMail has the most modern-looking interface and many organizational tools, such as dynamic sort and group by sender. BlueMail allows users to customize the UI with 18 different accent colors and even color-code email accounts, so there's no doubt which account you're viewing. 
+
+The interface doesn't reinvent the wheel (with a sidebar, unified inbox, and preview pane), so there's no learning curve. BlueMail also adds features like email triage (via the Later Board), GemAI generative email, email clustering, instant push, unified folders, and more. For those who often switch from desk to mobile, BlueMail has you covered with mobile apps for both Android and iOS.
+
+Also: This is my new favorite default email client for Linux
+
+BlueMail offers a free version. However, pay for a BlueMail Plus or Business Pro plan and you'll get additional features like GemAI, Themes, email backup, and more. You can check out BlueMail pricing to find out more. BlueMail is available for Linux as a Snap package.
+
+
+2. Proton Mail
+Proton Mail is focused on end-to-end encryption. Given we're all just a bad password away from getting our data stolen, encryption is an important feature for an email client. Proton is a service that rivals Google Workspace, as it includes email, storage, a calendar, a VPN, a password manager, and a wallet. The difference between Proton Mail and Gmail is that there are no ads in Proton Mail. 
+
+The Proton Mail app (available as a DEB or RPM package) is a well-designed email client that allows you to access other Proton features, such as Calendar. In fact, the Proton Mail desktop app is one of the most well-laid-out email clients I've used in a long time, and with the addition of end-to-end encryption, it's hard to beat this app. 
+
+Also: Finally! This is the Linux email client I've been hoping for
+
+Speaking of security, Proton Mail also includes the ability to create hide-my-email aliases, which can help protect you from phishing attempts. These randomly generated email addresses can be used for things like subscriptions or signing up for accounts, so your real email address is never revealed.
+
+Proton Mail has a free plan, which gives you up to 1GB of storage and one free email account (with a limit of 150 messages per day). You can purchase a Mail Plus or Proton Unlimited plan for more features. Check out the pricing and feature matrix to discover which plan is right for you. 
+
+
+3. Newton
+Newton calls its email app supercharged with space-age features for modern business communication. If you're looking for the best-looking email client for Linux, look no further. You'll never feel overwhelmed using this email app because it is laid out so well. 
+
+You won't find the traditional sidebar in Newton -- until you realize it autohides. Hit Shift+S and it'll appear. After using the sidebar, it'll automatically disappear, returning you to that minimal but effective UI. Newton also includes features like read receipts, notifications for when messages are read or clicked, automatic follow-ups, email scheduling, and many more attractive features. 
+
+Also: How to install Geary email on Linux (and why you should or shouldn't)
+
+The only drawback to Newton is that there are no free plans. Also, Newton only supports IMAP and Exchange. As for the price, Newton has one plan, which is $49/year. The app is available on the Snap store and can be used for 14 days as a trial.
+
+4. Hiri
+Hiri is a bit of an outlier as it can only work with Exchange and Office 365. However, if you use either of Microsoft's services, you'll be glad to know Hiri exists. 
+
+The Hiri UI is modern and offers features like email sync (using MS Exchange Web Services API), actionable and FYI inboxes for automatic email organization, inbox and sent folder management, SSO support, an advanced calendar app, and reminders. 
+
+Also: This easy email trick will make your inbox clutter vanish
+
+Hiri is one of the more limited apps on the list, but if Exchange is your jam, and you'd prefer an email client instead of the web app, Hiri easily fills that void on Linux. The client can be used as a trial. However, once the trial is up, you'll have to purchase a license, which costs $39/year or $119/lifetime. 
+
+For Linux, Hiri is available as a source package or as a Snap package. One word of warning, the Hiri website is dreadfully slow and renders somewhat broken, which makes me wonder if the app is still in active development. 
+
+Open Source
+Editorial standards
+Show Comments
+
+Related
+Person with email open
+The best email hosting services of 2024: Expert tested
+penguin swimming
+5 Linux terminal apps that are better than your default (and why)
+gettyimages-538855154
+5 essential Linux terms every new user needs to know
+
+ 
+we equip you to harness the power of disruptive innovation, at work and at home.
+Topics
+Galleries
+Videos
+Do Not Sell or Share My Personal Information
+about ZDNET
+Meet The Team
+Sitemap
+Reprint Policy
+Join | Log In
+Newsletters
+Site Assistance
+Licensing
+© 2024 ZDNET, A Red Ventures company. All rights reserved. Privacy Policy | | Manage Preferences | Advertise | Terms of Use
+
